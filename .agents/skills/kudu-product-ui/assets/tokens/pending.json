@@ -1,0 +1,18 @@
+{
+  "status": "unresolved",
+  "roles": [
+    "success text/surface/border",
+    "warning text/surface/border",
+    "error text/surface/border",
+    "info text/surface/border",
+    "destructive button colors",
+    "primary pressed surface",
+    "overlay scrim",
+    "floating/menu shadow",
+    "modal shadow",
+    "modal small/medium/large widths",
+    "accessible muted text replacement",
+    "essential input boundary treatment"
+  ],
+  "rule": "Do not treat these names as defined runtime CSS variables or fill them silently. Propose values and validate before owner approval."
+}

@@ -1,0 +1,8 @@
+:root {
+  --kudu-radius-sm: 6px;
+  --kudu-radius-control: 10px;
+  --kudu-radius-panel: 12px;
+  --kudu-radius-modal: 14px;
+  /* Suitable badges/chips only; not default buttons or panels. */
+  --kudu-radius-pill: 999px;
+}

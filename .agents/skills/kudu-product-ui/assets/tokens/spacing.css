@@ -1,0 +1,12 @@
+:root {
+  --kudu-space-1: 4px;
+  --kudu-space-2: 8px;
+  --kudu-space-3: 12px;
+  --kudu-space-4: 16px;
+  --kudu-space-5: 20px;
+  --kudu-space-6: 24px;
+  --kudu-space-8: 32px;
+  --kudu-space-10: 40px;
+  --kudu-space-12: 48px;
+  --kudu-space-16: 64px;
+}

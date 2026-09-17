@@ -1,0 +1,10 @@
+{
+  "status": "draft",
+  "unit": "CSS px",
+  "min_width": {
+    "tablet": 640,
+    "desktop": 1024,
+    "large": 1440
+  },
+  "note": "Use through the actual build system or documented media queries. CSS variables cannot be substituted directly into ordinary media-query conditions."
+}

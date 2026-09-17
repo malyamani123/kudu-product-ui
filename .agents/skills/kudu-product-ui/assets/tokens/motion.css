@@ -1,0 +1,8 @@
+/* Consumers must honor prefers-reduced-motion in their implementation.
+   These variables alone do not implement reduced-motion behavior. */
+:root {
+  --kudu-duration-fast: 120ms;
+  --kudu-duration-normal: 180ms;
+  --kudu-duration-slow: 240ms;
+  --kudu-ease-standard: cubic-bezier(0.2, 0, 0, 1);
+}

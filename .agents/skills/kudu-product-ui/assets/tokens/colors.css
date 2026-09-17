@@ -1,0 +1,46 @@
+/* Preserved planning values. Draft, not accessibility-approved.
+   Muted text and essential control borders need review; run check_tokens.py. */
+:root {
+  --kudu-brand-blue: #27468B;
+  --kudu-brand-yellow: #FDB515;
+  --kudu-brand-turquoise: #4DB8B6;
+  --kudu-brand-coral: #FF7354;
+  --kudu-brand-peach: #FFD4B3;
+  --kudu-brand-grey: #D8D7D6;
+
+  --kudu-neutral-0: #FFFFFF;
+  --kudu-neutral-25: #FCFBF8;
+  --kudu-neutral-50: #F7F6F2;
+  --kudu-neutral-100: #F2F1ED;
+  --kudu-neutral-200: #E2E1DC;
+  --kudu-neutral-300: #CFCEC8;
+  --kudu-neutral-500: #8A9099;
+  --kudu-neutral-600: #667085;
+  --kudu-neutral-800: #34383E;
+  --kudu-neutral-900: #20242A;
+
+  --kudu-surface-app: var(--kudu-neutral-50);
+  --kudu-surface-primary: var(--kudu-neutral-0);
+  --kudu-surface-subtle: var(--kudu-neutral-100);
+  --kudu-surface-hover: #EEEDEA;
+  --kudu-surface-selected: #EEF2F9;
+  --kudu-surface-disabled: var(--kudu-neutral-100);
+
+  --kudu-text-primary: var(--kudu-neutral-900);
+  --kudu-text-secondary: var(--kudu-neutral-600);
+  --kudu-text-muted: var(--kudu-neutral-500);
+  --kudu-text-brand: var(--kudu-brand-blue);
+  --kudu-text-on-brand: var(--kudu-neutral-0);
+
+  --kudu-border-subtle: var(--kudu-neutral-200);
+  --kudu-border-default: var(--kudu-neutral-300);
+  --kudu-border-brand: var(--kudu-brand-blue);
+
+  --kudu-action-primary: var(--kudu-brand-blue);
+  --kudu-action-primary-hover: #203E7A;
+  --kudu-action-primary-soft: #EEF2F9;
+  --kudu-action-secondary: var(--kudu-neutral-100);
+  --kudu-action-secondary-hover: #E8E7E2;
+  --kudu-action-disabled: var(--kudu-neutral-300);
+  --kudu-accent-brand: var(--kudu-brand-yellow);
+}

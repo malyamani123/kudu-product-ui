@@ -1,0 +1,28 @@
+/* Proposed geometry, not a validated production scale. */
+:root {
+  --kudu-control-sm: 32px;
+  --kudu-control-md: 40px;
+  --kudu-control-lg: 44px;
+  --kudu-icon-sm: 16px;
+  --kudu-icon-md: 20px;
+  --kudu-icon-lg: 24px;
+  --kudu-content-reading: 760px;
+  --kudu-content-form: 840px;
+  --kudu-content-standard: 1200px;
+  --kudu-content-wide: 1440px;
+  --kudu-border-width-default: 1px;
+  --kudu-border-width-focus: 2px;
+  --kudu-shadow-none: none;
+  --kudu-z-base: 0;
+  --kudu-z-sticky: 100;
+  --kudu-z-dropdown: 200;
+  --kudu-z-overlay: 300;
+  --kudu-z-modal: 400;
+  --kudu-z-toast: 500;
+  --kudu-button-height: var(--kudu-control-md);
+  --kudu-button-radius: var(--kudu-radius-control);
+  --kudu-button-padding-x: var(--kudu-space-4);
+  --kudu-input-height: var(--kudu-control-md);
+  --kudu-input-radius: var(--kudu-radius-control);
+  --kudu-panel-radius: var(--kudu-radius-panel);
+}
