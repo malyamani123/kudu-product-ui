@@ -1,0 +1,5 @@
+interface:
+  display_name: "KUDU Product UI"
+  short_description: "Build and review consistent KUDU product interfaces"
+  brand_color: "#27468B"
+  default_prompt: "Use $kudu-product-ui to design or review this KUDU product interface using the approved foundations and task-specific composition."

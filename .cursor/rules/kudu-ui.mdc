@@ -1,0 +1,10 @@
+---
+description: Apply the KUDU Product UI system when designing, implementing, auditing, or refactoring internal product interfaces.
+alwaysApply: true
+---
+
+For KUDU UI tasks, read `.agents/skills/kudu-product-ui/SKILL.md` and only the references needed for the task. For unrelated work, do not force a UI workflow.
+
+Use the existing design language, not a generic dashboard template. Preserve approved decisions, including minimal cards and the prohibition on colored side accent strips. Do not treat this draft as a validated component library. Keep English documentation and responsive Arabic/RTL plus English/LTR product support.
+
+@AGENTS.md
