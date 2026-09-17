@@ -1,0 +1,24 @@
+# Local output and build artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+.venv/
+dist/
+*.zip
+.DS_Store
+Thumbs.db
+
+# Secrets and private project data
+.env
+.env.*
+!.env.example
+private/
+
+# Brand assets must be supplied through approved internal channels.
+*.ttf
+*.otf
+*.woff
+*.woff2
+*.eot
+KUDU-FV02BGuideline_LR.pdf
