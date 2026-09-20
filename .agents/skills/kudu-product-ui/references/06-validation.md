@@ -25,7 +25,7 @@ Put the three compositions beside each other. They must share language without s
 | Area | Required checks |
 | --- | --- |
 | Brand/surfaces | Quiet warm surfaces; restrained yellow; meaningful blue; approved assets |
-| Typography | Actual Poppins/Tajawal; long English/Arabic text; figures, dates, currency; no clipping |
+| Typography | Actual Nunito/Tajawal; long English/Arabic text; figures, dates, currency; no clipping |
 | Primary action | Outline primary remains identifiable beside neutral secondary; destructive hierarchy is intentional |
 | Tables | Short/long lists, long names/IDs, large values, missing values, many/few columns, actual overflow |
 | Forms | Short, medium, and long examples; related columns; errors; summary; preserved values |

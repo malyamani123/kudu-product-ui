@@ -94,4 +94,4 @@ Simple, warm, practical, balanced, subtly branded, flat and clean. Warm off-whit
 
 ## Next milestone
 
-Provision Poppins and Tajawal in the actual product; audit one real Intranet page; implement core components in the actual project stack; then test operational and engineering compositions. Freeze `v1.0.0` only after the three pilots and accessibility, responsive, and RTL checks have evidence.
+Provision Nunito and Tajawal in the actual product; audit one real Intranet page; implement core components in the actual project stack; then test operational and engineering compositions. Freeze `v1.0.0` only after the three pilots and accessibility, responsive, and RTL checks have evidence.

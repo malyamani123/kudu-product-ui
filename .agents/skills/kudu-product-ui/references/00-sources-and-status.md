@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Brand | User-supplied `KUDU-FV02BGuideline_LR.pdf`, titled KUDU Brand Guidelines, 2026 Full Version 02, 59 pages | Report only what the document states; do not invent new official assets |
 | Product choices | Completed user interview, D01-D45 | Approved product direction |
-| Product typography | User clarification: Poppins for English and Tajawal for Arabic | Approved product typography; supersedes the earlier planning-font selection |
+| Product typography | User clarification: Nunito for English and Tajawal for Arabic | Approved product typography; supersedes the earlier planning-font selection |
 | Logo assets | User-supplied horizontal and vertical KUDU PNG files, plus a 32 × 32 favicon SVG specification | Approved source artwork bundled in `assets/logos/`; preserve without modification |
 | Additional prohibition | User's card screenshot and explicit rejection of colored edge lines | X01, mandatory in KUDU product UI |
 | Implementation values | Later Parts 1-8 in the planning conversation | Draft where values were explicitly proposed or deferred |
@@ -29,14 +29,14 @@
 | Color variants/backgrounds | 14-15 | Use the appropriate approved logo version on each background |
 | Palette | 18 | Blue `#27468B`; yellow `#FDB515`; turquoise `#4DB8B6`; coral `#FF7354`; peach `#FFD4B3`; grey `#D8D7D6` |
 | Gradients | 19 | Gradients are allowed in the brand document; the product system separately rejects them as a default UI treatment |
-| Typography | 20-21 | The brand document lists Config Rounded Medium/Bold, DIN Next Arabic Medium/Bold, and Baretelly Signature Script. The request owner later approved Poppins for English and Tajawal for Arabic for this product skill. |
+| Typography | 20-21 | The brand document contains separate typography guidance. The request owner approved Nunito for English and Tajawal for Arabic for this product skill. |
 | Food/lifestyle photography | 22-23 | Product-focused food imagery and natural, warm, unstaged lifestyle direction |
 | Graphic devices | 24 | Approved solid and stroke motifs contribute to brand recognition |
 | Digital look and feel | 43-45 | Email, presentation, and website references use approved patterns, colors, and logo formats |
 
 Preserve the printed HEX strings verbatim. Page 18 contains RGB/HEX inconsistencies, including the blue and grey entries. Do not silently normalize either representation or infer an updated corporate value. This draft uses the HEX choices already approved in the conversation; the brand owner should resolve the discrepancies before final publication.
 
-The file describes brand applications, not a component library. Warm off-white surfaces, outline primary buttons, modal behavior, and icon rules are product decisions, not direct PDF requirements. The typography specification is not proof that the logo lettering is a commercially available font. For this skill, the owner's later Poppins/Tajawal clarification controls product UI typography.
+The file describes brand applications, not a component library. Warm off-white surfaces, outline primary buttons, modal behavior, and icon rules are product decisions, not direct PDF requirements. The typography specification is not proof that the logo lettering is a commercially available font. For this skill, the owner's Nunito/Tajawal clarification controls product UI typography.
 
 ## Asset handling
 
