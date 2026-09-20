@@ -9,7 +9,7 @@
 
 ### Changed
 
-- Product UI typography now uses Nunito for English and Tajawal for Arabic, replacing earlier font selections.
+- Product UI typography now uses Baloo Bhaijaan 2 for English and Arabic, replacing earlier font selections.
 
 ## 0.1.0-draft.1 - 2026-09-17
 

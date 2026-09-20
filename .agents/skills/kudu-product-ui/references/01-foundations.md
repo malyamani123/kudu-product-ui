@@ -49,7 +49,7 @@ The brand guide allows gradients and patterns (pp.19,24). The product system sep
 
 Do not treat these draft numbers as approved accessible combinations. Read [open decisions](open-decisions.md) and run the token diagnostics. Use a verified text token for meaningful metadata and placeholders; do not hide important information in low-contrast grey.
 
-Use **Nunito Medium/Bold** for English and **Tajawal Medium/Bold** for Arabic. Do not use an accent script as a normal application UI face. Font files are not included in this repository and must be provisioned through the approved product asset path. Ordinary text saying KUDU is not an official logo asset.
+Use **Baloo Bhaijaan 2 Medium/Bold** for English and Arabic. Do not use an accent script as a normal application UI face. Font files are not included in this repository and must be provisioned through the approved product asset path. Ordinary text saying KUDU is not an official logo asset.
 
 Draft hierarchy: page title 28 px; section title 20 px; component title 16 px; body 14-16 px; controls/tables 14 px; captions 12 px. Use a 16 px body option for reading-oriented content. Draft line heights are 1.25, 1.5, and 1.65; verify Arabic with the actual font rather than assuming English measurements work.
 

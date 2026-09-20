@@ -1,8 +1,8 @@
 /* Font names only. Obtain approved font assets through the product's asset path.
    This file does not load fonts or imply that fallbacks validate the brand. */
 :root {
-  --kudu-font-en: "Nunito", sans-serif;
-  --kudu-font-ar: "Tajawal", sans-serif;
+  --kudu-font-en: "Baloo Bhaijaan 2", sans-serif;
+  --kudu-font-ar: "Baloo Bhaijaan 2", sans-serif;
   --kudu-font-weight-medium: 500;
   --kudu-font-weight-bold: 700;
   --kudu-text-page-title-size: 28px;
