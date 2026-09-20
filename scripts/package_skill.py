@@ -8,7 +8,7 @@ from pathlib import Path
 from validate_repository import ROOT, SKILL, check_skill, paths
 
 MAX_BYTES = 25 * 1024 * 1024
-ALLOWED = {'.md', '.yaml', '.css', '.json', '.png', '.py'}
+ALLOWED = {'.md', '.yaml', '.css', '.json', '.png', '.py', '.svg'}
 
 def package(output: Path, source: Path = SKILL) -> Path:
     errors = check_skill(source)

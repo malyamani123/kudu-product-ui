@@ -51,6 +51,7 @@ D01-D45 preserve the completed interview. X01 is an additional user decision. Ex
 | D45 | Governance | Strict Foundations + Flexible Composition | Reuse the language; adapt layouts; do not silently redefine the system |
 | D46 | Product typography | Poppins for English; Tajawal for Arabic | Use Medium/Bold weights for product UI; this owner clarification supersedes the earlier planning-font selection |
 | D47 | Logo variants | Owner-supplied vertical and horizontal Arabic/English PNG artwork | Use the bundled artwork without recreation or distortion; request a source vector only when a product requires one |
+| D48 | Application icon | Owner-specified 32 × 32 inverted yellow triangle | Use the exact SVG at `src/app/icon.svg` when that application path is used; retain `#F4B21B` fill and the supplied triangle geometry |
 | X01 | Colored side accent strips | Prohibited | No decorative/status-colored left or right strips on cards, panels, alerts, or navigation items, including pseudo-element substitutes |
 
 ## Interpretive notes

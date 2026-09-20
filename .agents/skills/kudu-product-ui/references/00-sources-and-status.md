@@ -11,7 +11,7 @@
 | Brand | User-supplied `KUDU-FV02BGuideline_LR.pdf`, titled KUDU Brand Guidelines, 2026 Full Version 02, 59 pages | Report only what the document states; do not invent new official assets |
 | Product choices | Completed user interview, D01-D45 | Approved product direction |
 | Product typography | User clarification: Poppins for English and Tajawal for Arabic | Approved product typography; supersedes the earlier planning-font selection |
-| Logo assets | User-supplied horizontal and vertical KUDU PNG files | Approved source artwork bundled in `assets/logos/`; preserve without modification |
+| Logo assets | User-supplied horizontal and vertical KUDU PNG files, plus a 32 × 32 favicon SVG specification | Approved source artwork bundled in `assets/logos/`; preserve without modification |
 | Additional prohibition | User's card screenshot and explicit rejection of colored edge lines | X01, mandatory in KUDU product UI |
 | Implementation values | Later Parts 1-8 in the planning conversation | Draft where values were explicitly proposed or deferred |
 | Packaging | This repository's portable skill and helper scripts | Implementation organization, not a new design choice |

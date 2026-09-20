@@ -26,7 +26,7 @@ All documentation, code comments, templates, and instructions are in English. Th
 - All eight planning parts, consolidated without repetitive conversation text.
 - A traceable register of the 45 choices plus the prohibition on colored side accent strips.
 - A self-contained `kudu-product-ui` skill, with references, token assets, templates, and a token-checking script.
-- Owner-supplied horizontal and vertical KUDU PNG logo variants for approved product placements.
+- Owner-supplied horizontal and vertical KUDU PNG logo variants, plus the KUDU SVG favicon, for approved product placements.
 - `AGENTS.md`, `CLAUDE.md`, and a Cursor rule that route agents to the same canonical skill.
 - Draft CSS tokens, a source/status map, prototype briefs, evaluation scenarios, and review checklists.
 - Local scripts to validate, install, and package the skill without network access or third-party Python dependencies.

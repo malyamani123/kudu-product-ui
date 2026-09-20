@@ -5,6 +5,7 @@
 ### Added
 
 - Owner-supplied horizontal and vertical KUDU PNG logo variants in the portable skill.
+- Owner-specified KUDU SVG favicon, bundled in the portable skill and installed at `src/app/icon.svg` in this repository.
 
 ### Changed
 

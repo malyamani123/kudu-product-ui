@@ -93,6 +93,7 @@ class ToolingTests(unittest.TestCase):
                 self.assertIn('kudu-product-ui/references/decisions.md', entries)
                 self.assertIn('kudu-product-ui/assets/logos/kudu-logo-horizontal.png', entries)
                 self.assertIn('kudu-product-ui/assets/logos/kudu-logo-vertical.png', entries)
+                self.assertIn('kudu-product-ui/assets/logos/kudu-favicon.svg', entries)
                 self.assertFalse(any(name.endswith(('.ttf', '.woff', '.pdf')) for name in entries))
             self.assertEqual(package(Path(directory)).read_bytes(), first)
 
