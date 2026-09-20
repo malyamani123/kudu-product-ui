@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased
+
+### Added
+
+- Owner-supplied horizontal and vertical KUDU PNG logo variants in the portable skill.
+
+### Changed
+
+- Product UI typography now uses Poppins for English and Tajawal for Arabic, replacing the earlier planning-font selection.
+
 ## 0.1.0-draft.1 - 2026-09-17
 
 ### Added

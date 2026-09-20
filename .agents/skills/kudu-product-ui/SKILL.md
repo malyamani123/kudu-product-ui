@@ -33,7 +33,7 @@ Classify the task as **plan**, **build**, **audit**, **migrate**, or **extend**.
 
 - Keep the interface simple, warm, practical, balanced, subtly branded, flat, and clean.
 - Use official brand HEX values: blue `#27468B`, yellow `#FDB515`. Use yellow only as a restrained accent. Do not treat supporting brand colors as status colors automatically.
-- Use approved Config Rounded and DIN Next Arabic families with Medium/Bold weights. Require licensed internal assets. Never extract, download, or redistribute font files through this skill. Do not recreate a KUDU logo as ordinary text. Disclose any temporary preview fallback.
+- Use approved Poppins for English and Tajawal for Arabic, with Medium/Bold weights. Provision font files through the approved product asset path; do not extract, download, or redistribute font files through this skill. Do not recreate a KUDU logo as ordinary text. Use the approved [horizontal](assets/logos/kudu-logo-horizontal.png) logo in headers and wide placements, or the approved [vertical](assets/logos/kudu-logo-vertical.png) logo in tall or narrow placements. Disclose any temporary preview fallback.
 - Use blue outline primary buttons, quiet neutral filled secondary buttons, red filled destructive buttons, soft filled inputs, soft badges, and one simple outline icon family. The library and semantic HEX values are not finalized.
 - Use controlled rounding, minimal cards, whitespace, light dividers, and selective soft surfaces. Use approved draft geometry tokens rather than arbitrary values.
 - **Never use colored vertical/side accent strips** on cards, panels, alerts, or navigation items. This includes pseudo-elements and inset-shadow substitutes. A full-perimeter keyboard focus indicator is not a decorative side strip and must remain visible.
@@ -50,7 +50,7 @@ Use [screen brief](assets/templates/screen-brief.md). State the primary user/tas
 
 Read component and product references. Inventory reusable code before creating anything. Use the project's existing stack; the repository does not provide a working `@kudu/ui` import. Implement only the authorized scope. During migration, preserve application behavior and data. Use the draft tokens with their known limitations; propose unresolved values explicitly instead of labeling them approved. Do not change blue outline primary actions without permission.
 
-Run available project tests and inspect actual rendered screens when tools permit. Run `python <skill-directory>/scripts/check_tokens.py` for bundled token diagnostics. This checks a limited set of flat color pairs and token references, not live pages or overall accessibility. Never convert a partial pass into a compliance claim.
+Run available project tests and inspect actual rendered screens when tools permit. Run `python3 <skill-directory>/scripts/check_tokens.py` for bundled token diagnostics. This checks a limited set of flat color pairs and token references, not live pages or overall accessibility. Never convert a partial pass into a compliance claim.
 
 ### Audit
 

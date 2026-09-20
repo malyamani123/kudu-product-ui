@@ -18,7 +18,7 @@ Simplicity does not mean removing necessary data, accessibility information, or 
 
 ## 2. Brand foundations
 
-Source: [brand map](00-sources-and-status.md), PDF p.18 and pp.20-21.
+Source: [brand map](00-sources-and-status.md), PDF p.18 and the request owner's later typography clarification.
 
 | Brand primitive | Official printed HEX | Product usage |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ The brand guide allows gradients and patterns (pp.19,24). The product system sep
 
 Do not treat these draft numbers as approved accessible combinations. Read [open decisions](open-decisions.md) and run the token diagnostics. Use a verified text token for meaningful metadata and placeholders; do not hide important information in low-contrast grey.
 
-Use **Config Rounded Medium/Bold** for English and **DIN Next Arabic Medium/Bold** for Arabic. The source's **Baretelly Signature Script** is an accent typeface, not a normal application UI face. Font files must come through licensed internal provisioning and are not included in this repository. Ordinary text saying KUDU is not an official logo asset.
+Use **Poppins Medium/Bold** for English and **Tajawal Medium/Bold** for Arabic. Do not use an accent script as a normal application UI face. Font files are not included in this repository and must be provisioned through the approved product asset path. Ordinary text saying KUDU is not an official logo asset.
 
 Draft hierarchy: page title 28 px; section title 20 px; component title 16 px; body 14-16 px; controls/tables 14 px; captions 12 px. Use a 16 px body option for reading-oriented content. Draft line heights are 1.25, 1.5, and 1.65; verify Arabic with the actual font rather than assuming English measurements work.
 

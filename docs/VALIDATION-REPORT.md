@@ -37,6 +37,6 @@ The border findings are conditional: decorative dividers are not automatically s
 
 ## Not tested or not implemented
 
-No live Intranet, Engineering, or operational application was rendered or edited. Actual fonts and production logo assets were not available in this bundle. Keyboard, screen reader, real responsive/RTL behavior, component interactions, and end-to-end editor discovery have not been verified. The manual [skill scenarios](../tests/skill-scenarios.md) are a test plan, not executed agent benchmarks.
+No live Intranet, Engineering, or operational application was rendered or edited. The approved horizontal and vertical KUDU PNG logo assets are bundled, but Poppins/Tajawal have not been rendered in a production application. Keyboard, screen reader, real responsive/RTL behavior, component interactions, and end-to-end editor discovery have not been verified. The manual [skill scenarios](../tests/skill-scenarios.md) are a test plan, not executed agent benchmarks.
 
 The skill can guide design and review now. A completed component library and validated product-system v1.0 require the remaining implementation and evidence listed in [open decisions](../.agents/skills/kudu-product-ui/references/open-decisions.md).

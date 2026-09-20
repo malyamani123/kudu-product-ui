@@ -9,7 +9,7 @@ without an approved readable replacement. Quiet border/fill combinations need
 review when they are essential to identifying an input. The distinction matters:
 not every decorative divider is an accessibility failure.
 
-Run `python ../../scripts/check_tokens.py` from this directory, or use the full
+Run `python3 ../../scripts/check_tokens.py` from this directory, or use the full
 script path from any working directory. `--strict` returns nonzero for the listed
 risks. Default mode reports them without representing the palette as compliant.
 

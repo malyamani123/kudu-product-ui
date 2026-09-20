@@ -26,6 +26,7 @@ All documentation, code comments, templates, and instructions are in English. Th
 - All eight planning parts, consolidated without repetitive conversation text.
 - A traceable register of the 45 choices plus the prohibition on colored side accent strips.
 - A self-contained `kudu-product-ui` skill, with references, token assets, templates, and a token-checking script.
+- Owner-supplied horizontal and vertical KUDU PNG logo variants for approved product placements.
 - `AGENTS.md`, `CLAUDE.md`, and a Cursor rule that route agents to the same canonical skill.
 - Draft CSS tokens, a source/status map, prototype briefs, evaluation scenarios, and review checklists.
 - Local scripts to validate, install, and package the skill without network access or third-party Python dependencies.
@@ -34,7 +35,7 @@ All documentation, code comments, templates, and instructions are in English. Th
 
 This is **not** a completed React component library, a published `@kudu/ui` package, or three validated product prototypes. No production accessibility conformance is claimed. Framework selection, icon library, licensed fonts, semantic color values, overlay shadows, and visual approval still have open work.
 
-No font binaries, original brand PDF, production data, internal screenshots, or private business records are distributed here. Use approved internal brand assets; do not recreate the official logo as styled text. Repository availability is not a license to redistribute KUDU brand assets.
+No font binaries, original brand PDF, production data, internal screenshots, or private business records are distributed here. The approved horizontal and vertical KUDU PNG logo variants are included for this skill; do not recreate, distort, or redistribute the official logo outside approved use.
 
 ## Use the skill immediately
 
@@ -80,6 +81,7 @@ The portable skill owns the full references and token assets:
   agents/openai.yaml
   references/
   assets/tokens/
+  assets/logos/
   assets/templates/
   scripts/check_tokens.py
 ```
@@ -92,4 +94,4 @@ Simple, warm, practical, balanced, subtly branded, flat and clean. Warm off-whit
 
 ## Next milestone
 
-Supply licensed fonts and approved logo assets privately; audit one real Intranet page; implement core components in the actual project stack; then test operational and engineering compositions. Freeze `v1.0.0` only after the three pilots and accessibility, responsive, and RTL checks have evidence.
+Provision Poppins and Tajawal in the actual product; audit one real Intranet page; implement core components in the actual project stack; then test operational and engineering compositions. Freeze `v1.0.0` only after the three pilots and accessibility, responsive, and RTL checks have evidence.

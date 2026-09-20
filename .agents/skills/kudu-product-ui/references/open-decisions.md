@@ -9,8 +9,8 @@ These are explicit gaps, not permission to silently replace user-approved materi
 | O03 | Success/warning/error/info HEX values | Deferred in planning; not invented in the bundle |
 | O04 | Destructive button foreground/background | Red Filled is approved; exact accessible red pair is not selected |
 | O05 | Exact icon library | Simple Outline approved; compare candidates with actual typefaces before choosing |
-| O06 | Licensed font assets | Config Rounded and DIN Next Arabic required; files/license provisioning absent |
-| O07 | Approved logo/vector assets | Brand PDF is a reference, not production asset delivery |
+| O06 | Font assets and provisioning | Poppins and Tajawal are required; font files and the approved delivery path are absent |
+| O07 | Approved logo/vector assets | Horizontal and vertical PNG variants are bundled; vector files and additional background variants are not supplied |
 | O08 | Arabic size/line-height tuning | Draft roles need actual-font rendering; prevent clipped glyphs |
 | O09 | Pressed surfaces, scrim, floating/modal shadows | Draft behavior approved; exact values unresolved |
 | O10 | Small/Medium/Large modal widths | Hybrid sizing approved; exact widths unresolved |
