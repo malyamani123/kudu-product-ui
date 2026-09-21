@@ -28,6 +28,10 @@ Do not blindly mirror every icon or every input value. Search, calendar, delete,
 
 Use `bdi`, `dir="auto"`, or explicit direction where the content requires it. Test real mixed strings with punctuation and long values. Table numeric alignment should aid comparison rather than reversing every column mechanically.
 
+## Time display
+
+Display all user-facing times in the `Asia/Riyadh` time zone. Use a 12-hour clock with lowercase `am`/`pm`; the required format is `YYYY-MM-DD h:mm am`, for example `2026-09-20 11:41 am`. Convert timestamps for display rather than changing stored source values. Preserve the original timestamp and time-zone data when the product needs traceability, exports, or audit history.
+
 ## Modal footer proposal
 
 The approved decision is language-aware ordering. A concrete proposed convention is primary at logical inline-end: right in LTR and left in RTL, with secondary adjacent toward inline-start. Validate the actual DOM/focus order and translated labels before freezing this as an implementation convention.

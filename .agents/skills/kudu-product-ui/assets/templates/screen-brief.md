@@ -16,6 +16,7 @@ Relevant KUDU decision IDs:
 Cards, tabs, charts, dashboard: justify each or mark not needed.
 Responsive behavior:
 English/LTR and Arabic/RTL behavior:
+Time zone and time format: Asia/Riyadh; `YYYY-MM-DD h:mm am` with lowercase `am`/`pm`:
 Loading / empty / filtered no-results / error / permission states:
 Keyboard, focus, labels, contrast, and announcements:
 Unresolved assets/tokens:

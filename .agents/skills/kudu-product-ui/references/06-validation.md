@@ -33,6 +33,7 @@ Put the three compositions beside each other. They must share language without s
 | States | Loading, empty, filtered no-results, errors, access denied, disabled, success, long-running progress |
 | Responsive | Desktop, tablet, mobile; small-width and zoom/reflow checks where applicable |
 | RTL/LTR | Navigation, action order, icons, mixed identifiers/numbers, labels, tables, breadcrumbs |
+| Time display | `Asia/Riyadh` conversion; 12-hour lowercase `am`/`pm` format; stored timestamp traceability where required |
 | Accessibility | Text/non-text contrast, keyboard, focus, labels, programmatic states, status announcements |
 | Motion | Calm transitions, stable layout, reduced-motion preference |
 | X01 | No colored side strip, including pseudo-elements, inset shadows, alerts, and navigation |

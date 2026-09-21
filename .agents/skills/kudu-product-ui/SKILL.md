@@ -39,6 +39,7 @@ Classify the task as **plan**, **build**, **audit**, **migrate**, or **extend**.
 - Use controlled rounding, minimal cards, whitespace, light dividers, and selective soft surfaces. Use approved draft geometry tokens rather than arbitrary values.
 - **Never use colored vertical/side accent strips** on cards, panels, alerts, or navigation items. This includes pseudo-elements and inset-shadow substitutes. A full-perimeter keyboard focus indicator is not a decorative side strip and must remain visible.
 - **Never use hyphens or dash characters** (`-`, `–`, `—`) as visual separators between words in user-facing interface copy. Use clear wording, punctuation, labels, or whitespace instead. Retain them only when the value itself requires one, such as a negative number, range, identifier, filename, command, or other technical notation.
+- Display all user-facing times in the `Asia/Riyadh` time zone using a 12-hour clock with lowercase `am`/`pm`, for example `2026-09-20 11:41 am`. Convert stored timestamps for display while preserving the original value and time zone where the product needs an audit trail.
 - Do not automatically add dashboards, four KPI cards, charts, sidebars, tabs, hero banners, AI chat, gradients, glow, or decorative illustrations. Justify each element by a task.
 - Keep responsive, accessible, RTL/LTR, loading, empty, error, permission, and disabled behavior in scope from the beginning.
 
