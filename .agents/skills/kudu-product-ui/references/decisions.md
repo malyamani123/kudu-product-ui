@@ -52,6 +52,7 @@ D01-D45 preserve the completed interview. X01 is an additional user decision. Ex
 | D46 | Product typography | Baloo Bhaijaan 2 for English and Arabic | Use Medium/Bold weights for product UI; this owner clarification supersedes earlier font selections |
 | D47 | Logo variants | Owner-supplied vertical and horizontal Arabic/English PNG artwork | Use the bundled artwork without recreation or distortion; request a source vector only when a product requires one |
 | D48 | Application icon | Owner-specified 32 × 32 inverted yellow triangle | Use the exact SVG at `src/app/icon.svg` when that application path is used; retain `#F4B21B` fill and the supplied triangle geometry |
+| D49 | User-facing copy separators | No hyphens or dashes between words | Use wording, punctuation, labels, or whitespace instead; retain dash characters only when the value itself requires them, such as ranges, IDs, filenames, commands, or negative numbers |
 | X01 | Colored side accent strips | Prohibited | No decorative/status-colored left or right strips on cards, panels, alerts, or navigation items, including pseudo-element substitutes |
 
 ## Interpretive notes

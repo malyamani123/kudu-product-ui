@@ -46,6 +46,7 @@ An unresolved value is not permission to invent an official rule. Record a compa
 | Motion | Short functional transitions with reduced-motion support | Bounce, decorative pulse, movement without purpose |
 | Responsive | Adapt composition and preserve capability | Desktop-only implementation with a future mobile patch |
 | Access | Keyboard, readable contrast, named controls, clear focus | Remove focus to look clean; call a partial check WCAG compliance |
+| User-facing copy | Use clear wording, punctuation, labels, or whitespace to separate ideas | Use hyphens or dashes (`-`, `–`, `—`) as visual separators between words; retain them only in values that semantically require them, such as ranges, IDs, filenames, commands, or negative numbers |
 | Content | Direct, helpful, professional, warm text | Vague error messages, exaggerated success claims, invented metrics |
 
 The prohibition concerns purposeful product styling. A focus outline around a complete control remains required; neutral row separators and useful stage connectors are not banned side strips.

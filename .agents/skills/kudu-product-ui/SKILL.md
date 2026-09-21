@@ -38,6 +38,7 @@ Classify the task as **plan**, **build**, **audit**, **migrate**, or **extend**.
 - Use blue outline primary buttons, quiet neutral filled secondary buttons, red filled destructive buttons, soft filled inputs, soft badges, and one simple outline icon family. The library and semantic HEX values are not finalized.
 - Use controlled rounding, minimal cards, whitespace, light dividers, and selective soft surfaces. Use approved draft geometry tokens rather than arbitrary values.
 - **Never use colored vertical/side accent strips** on cards, panels, alerts, or navigation items. This includes pseudo-elements and inset-shadow substitutes. A full-perimeter keyboard focus indicator is not a decorative side strip and must remain visible.
+- **Never use hyphens or dash characters** (`-`, `–`, `—`) as visual separators between words in user-facing interface copy. Use clear wording, punctuation, labels, or whitespace instead. Retain them only when the value itself requires one, such as a negative number, range, identifier, filename, command, or other technical notation.
 - Do not automatically add dashboards, four KPI cards, charts, sidebars, tabs, hero banners, AI chat, gradients, glow, or decorative illustrations. Justify each element by a task.
 - Keep responsive, accessible, RTL/LTR, loading, empty, error, permission, and disabled behavior in scope from the beginning.
 
